@@ -4,7 +4,7 @@
 ## Description
 This Webpage requests a user to input Gender and Date of birth (dd/mm/yyyy) by filling a form, and the page will output the actual day of the week and AKAN NAME corresponding to that week day.
 ## Setup/Installation Requirements
-* This webpage is HTML.5 version, is simple to use, and will run in all most all the browsers such a Chrome/edge/Mozilla etc. The webpage is current hosted on github, for learning purposes  https://ochieng-28.github.io/Final
+* This webpage is HTML.5 version, is simple to use, and will run in all most all the browsers such a Chrome/edge/Mozilla etc. The webpage is current hosted on github, for learning purposes https://ochieng-28.github.io/AKANAME_GENERATOR/
 ## Known Bugs
 So far No bags reported but the page is still a work in progress. 
 ## Technologies Used
