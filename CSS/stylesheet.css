@@ -33,3 +33,7 @@ p{
     font-size: 20px;
     font-style: italic;
     }
+.card-title {
+    margin-bottom: 0.75rem;
+    margin-left: 22px;
+    }    
