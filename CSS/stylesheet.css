@@ -21,3 +21,15 @@ body {
     margin-right: auto;
     margin-left: auto;
     }    
+p{ 
+    color: #333;
+    font: italic;
+    font-size: 24px;
+    font-weight: bold;
+}      
+.row {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-style: italic;
+    }
