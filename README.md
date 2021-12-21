@@ -9,9 +9,9 @@ This Webpage requests a user to input Gender and Date of birth (dd/mm/yyyy) by f
 So far No bags reported but the page is still a work in progress. 
 ## Technologies Used
 To create this web page, one needs the understanding of the following;
-    1. HTML versions.
-    2. CSS and Bootstraps.css
-    3. JavaScript and Bootstrap.js
+    * HTML versions.
+    * CSS and Bootstraps.css
+    * JavaScript and Bootstrap.js
 ## Support and contact details
 This page is purely for Learning Purposes atleast for now. I invite any improvement and corrections through my contacts toniolaru@gmail.com.
 ### License
