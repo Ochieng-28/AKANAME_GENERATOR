@@ -1,5 +1,4 @@
 # AKANNAME GENERATOR
-# This 
 #### In Africa and especially West african countries, newborns are given special names based on their gender and the Corresponding day of the Week they are born. Diverse ethnicities have variants and meanings as a symbol of cultural integrity and ancestral affiliation, 17/12/2021
 #### By **Tonny Olaru**
 ## Description
