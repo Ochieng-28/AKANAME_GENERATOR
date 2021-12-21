@@ -4,7 +4,6 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width: 80%;
    }
 .jumbotron {
     height: 25px;
@@ -102,3 +101,8 @@ label {
     font:bold;
     color: blue;
     }     
+@media screen and (min-width: 240px) {
+    body{background-color: honeydew;
+        
+    }
+    }
