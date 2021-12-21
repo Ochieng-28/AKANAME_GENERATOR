@@ -5,3 +5,11 @@ body {
     background-position: center;
     background-size: cover;
    }
+.jumbotron {
+    height: 25px;
+    background-color: #16E2F5;
+    color: blue;
+    padding-top: 10px;
+    margin-bottom: 0;
+    border-radius: 50%;
+}   
